@@ -20,7 +20,7 @@ SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 USERNAME = 'youremail@gmail.com'
 PASSWORD = 'the_password_or_app_specific_password'
-RECIEVER_EMAIL = 'another.email@gmail.ro'
+RECIEVER_EMAIL = 'another.email@gmail.com'
 
 # === TIMP MINIM INTRE EMAILURI ===
 last_motion_time = datetime.min
