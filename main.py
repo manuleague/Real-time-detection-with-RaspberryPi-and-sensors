@@ -18,9 +18,9 @@ led = LED(27)             # LED pe GPIO 27 (pin fizic 13)
 # === CONFIGURARE EMAIL ===
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-USERNAME = 'danalacheemanuel@gmail.com'
-PASSWORD = 'mcwrvuhlplbtceav'
-RECIEVER_EMAIL = 'emanuel.danalache@student.tuiasi.ro'
+USERNAME = 'youremail@gmail.com'
+PASSWORD = 'the_password_or_app_specific_password'
+RECIEVER_EMAIL = 'another.email@gmail.ro'
 
 # === TIMP MINIM INTRE EMAILURI ===
 last_motion_time = datetime.min
